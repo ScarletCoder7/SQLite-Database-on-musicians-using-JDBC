@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module_Artist.iml" filepath="$PROJECT_DIR$/Module_Artist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rims.artistAlbum.common/rims.artistAlbum.common.iml" filepath="$PROJECT_DIR$/rims.artistAlbum.common/rims.artistAlbum.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rims.artistAlbum.db/rims.artistAlbum.db.iml" filepath="$PROJECT_DIR$/rims.artistAlbum.db/rims.artistAlbum.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rims.artistAlbum.main/rims.artistAlbum.main.iml" filepath="$PROJECT_DIR$/rims.artistAlbum.main/rims.artistAlbum.main.iml" />
+    </modules>
+  </component>
+</project>
