@@ -33,7 +33,7 @@ public class Main {          // Project Created using IntelliJ IDE and JDK 10
             if (datasource.insert_Table(id, artistName, albumName, track)) {
                 System.out.println("Item successfully added ");
             }
-            System.out.println("If you want to continue press any alphabet key and hit enter.\nIf you want to exit type exit");
+            System.out.println("If you want to continue, press any alphabet key and hit enter. If you want to exit, type exit");
             inputValue= scanner.nextLine();
         }
 
