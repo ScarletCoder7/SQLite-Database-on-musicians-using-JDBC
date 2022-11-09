@@ -5,7 +5,7 @@ module rims.artistAlbum.db {
     requires rims.artistAlbum.common;
 
 
-    //requires rims.artistAlbum.Main;
+  
 
 
 }
